@@ -1,0 +1,24 @@
+{
+  "name": "vue-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim1597/vue-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim1597/vue-note/issues"
+  },
+  "homepage": "https://github.com/kim1597/vue-note#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
